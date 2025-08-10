@@ -1,0 +1,19 @@
+# Visual Studio Code specific
+.vscode/
+
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.vcxproj.filters
+
+# Build output
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.log
